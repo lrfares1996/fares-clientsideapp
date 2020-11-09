@@ -1,0 +1,118 @@
+header
+{
+    display: none;
+}
+
+div
+{
+    background-image: url(picture2.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+li
+{
+    color: white;
+    text-align: center;
+    list-style-position: inside;    
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+    padding: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2
+{
+    color: white;
+    text-align: center;
+}
+
+div #items
+{
+    background: rgba(255,165,0,0.45);
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid black;
+}
+
+div li, h2
+{
+    opacity: none;
+}
+
+nav img
+{
+    margin-left: 1150px;
+    display: block;
+    margin-right: auto;
+    margin-top: -50px;
+}
+
+nav a
+{
+    margin-bottom: -500px;
+    font-size: 1.4em;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+nav
+{
+    padding-top: 25px;
+    padding-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+aside
+{
+    display: block;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 25px;
+}
+
+aside a
+{
+    color: white;
+    margin-left: -5px;
+}
+
+footer
+{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+form
+{
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.colored
+{
+    background: black;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+input
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: gray;
+}
