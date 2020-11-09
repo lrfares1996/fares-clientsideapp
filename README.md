@@ -2,6 +2,7 @@
 
 ## Images Used
 * Background image credit to Lindsey Fares (taken on 05 May 2020)
+* Profile image credit to Lindsey Fares (taken on 12 October 2018)
 * LinkedIn® Logo credit to LinkedIn® and taken from https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/linkedin-icon-square
 
 ## Contributors
