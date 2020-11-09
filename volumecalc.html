@@ -20,14 +20,18 @@
         <h1>Calculate Volume</h1>
         <div id=items>
         <form>
+          <label for="user">Enter your name:</label><br>
+          <input type="text" id="user" name="user" minlength="2" maxlength="40" value="Jane"><br>
           <label for="height">Height (1-1000):</label><br>
-          <input type="number" id="height" name="height" min="1" max="1000"><br>
+          <input type="number" id="height" name="height" min="1" max="1000" value="1"><br>
           <label for="length">Length (1-1000):</label><br>
-          <input type="number" id="length" name="length" min="1" max="1000"><br>
+          <input type="number" id="length" name="length" min="1" max="1000" value="1"><br>
           <label for="width">Width (1-1000):</label><br>
-          <input type="number" id="width" name="width" min="1" max="1000"><br><br>
+          <input type="number" id="width" name="width" min="1" max="1000" value="1"><br><br>
           <button id="volumeBtn" type="button" class="colored">Calculate the Volume</button>
+          <button id="clearBtn" type="button" class="colored">Clear Storage</button>
         </form> 
+            <p id="result"></p>
         </div>     
     </main>
     <footer>
