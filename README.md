@@ -1,24 +1,8 @@
-# about-me
+# Client Side App Assignment (Fares)
 
-## Repository Links
-* [Hosted Page](https://lrfares1996.github.io/fares-about-me/)
-* [Source Repository](https://github.com/lrfares1996/fares-about-me)
-
-## About
-This repo will be used as a resource for Developing Web Applications and Services (44-563).
-
-## Recommended Tools
-Required Tools:
-* GitHub / GitHub Desktop
-
-Required Languages:
-* HTML5
-* Markdown
-
-## Recommended Resources
-* [W3 Schools](https://www.w3schools.com/html/default.asp)
-* [BitBucket](https://bitbucket.org/)
-* [Stack Overflow](https://stackoverflow.com/)
+## Images Used
+* Background image credit to Lindsey Fares (taken on 05 May 2020)
+* LinkedIn® Logo credit to LinkedIn® and taken from https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/linkedin-icon-square
 
 ## Contributors
 Lyn Fares || Interactive Digital Media: Computer Science Programming
