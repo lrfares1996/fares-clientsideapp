@@ -1,9 +1,11 @@
 // Initilaization
-function multiply(x, y) { return x * y }
+function multiply(x, y) { 
+    return x * y; 
+}
 
-window.addEventListener('load', (event) => {
+window.addEventListener ('load', (event) => {
   if (localStorage.getItem('user')) {
-    document.querySelector('user').value = localStorage.getItem('user');
+    document.querySelector('#user').value = localStorage.getItem('user');
   };
   if (localStorage.getItem('num1')) {
     document.querySelector('#height').value = parseInt(localStorage.num1);
