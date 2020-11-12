@@ -86,11 +86,12 @@ aside a
     margin-left: -5px;
 }
 
-footer
+footer p
 {
     text-align: center;
     color: white;
     padding-top: 50px;
+    font-size: .9em;
 }
 
 form
@@ -100,7 +101,7 @@ form
     color: white;
 }
 
-.colored
+button
 {
     background: black;
     color: white;
@@ -115,4 +116,11 @@ input
     margin-right: auto;
     display: block;
     color: gray;
+}
+
+span, p
+{
+    text-align: center;
+    color: black;
+    font-size: 1.2em;
 }

@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
-    <script src="main.js"></script>
     <title>Lindsey Fares - P3 Client Side Application</title>
 </head>
 <body>
@@ -18,25 +17,23 @@
     </nav>
     <div>
     <main>
-        <h1>Calculate Volume</h1>
+        <h1>Calculate Area</h1>
         <div id=items>
         <form>
-          <label for="user">Enter your name:</label><br>
-          <input type="text" id="user" name="user" minlength="2" maxlength="40" value="Jane"><br>
-          <label for="height">Height (1-1000):</label><br>
-          <input type="number" id="height" name="height" min="1" max="1000" value="1"><br>
-          <label for="length">Length (1-1000):</label><br>
-          <input type="number" id="length" name="length" min="1" max="1000" value="1">
+          <label>Width (1-1000):</label><br>
+          <input type="number" id="width" min="1" max="1000"><br>
+          <label>Length (1-1000):</label><br>
+          <input type="number" id="length" min="1" max="1000">
           <br><br>
-          <button id="volumeBtn" type="button" class="colored">Calculate the Area</button>
-          <button id="clearBtn" type="button" class="colored">Clear Storage</button>
+          <button type='button' id="areaButton">Calculate the Area</button>
         </form> 
-            <p id="result"></p>
-        </div>     
+            <p id="ans">Area = </p>
+        </div>
     </main>
     <footer>
         <p>Background picture credit to Lindsey Fares (taken on 05 May 2020)</p>
         </footer>
     </div>
+    <script src="main.js"></script>
 </body>
 </html>
